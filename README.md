@@ -6,5 +6,5 @@ Olá, Eu Sou Alisson.
 - Aprendendo Programação.
 - "Três chaves para o sucesso: ler, ler, ler." - Vladimir Ulianov Lenin
 - Habilidades: Foco, Concentração, Detalhista, Desenhista.
- Ensino Médio Completo
+- Ensino Médio Completo
 
