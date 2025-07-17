@@ -8,20 +8,11 @@ Olá, Eu Sou Alisson.
 - Habilidades: Foco, Concentração, Detalhista, Desenhista.
 - Ensino Médio Completo
 
-  pt-br
-[![Alis-68's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alis-68)](https://github.com/Alis-68/github-readme-stats)
-[![Alis-68's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Alis-68&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Alis-68/github-readme-stats#gh-dark-mode-only)
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Alis-68&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Alis-68&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Alis-68&show_icons=true" />
-</picture>
+
+<img align="center" alt="Alis-68-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Alis-68-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Alis-68-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Alis-68-pic" height="150" style="border-radius:50px;" 
 
 
 
