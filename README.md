@@ -4,7 +4,7 @@ Olá, Eu Sou Alisson.
 - Nacionalidade: Brasileiro.
 - Naturalizado em Muriaé.
 - Aprendendo Programação.
-- "Três chaves para o sucesso: ler, ler, ler." - Vladimir Ulianov Lenin
+- "Três chaves para o sucesso: ler, ler, ler."
 - Habilidades: Foco, Concentração, Detalhista, Desenhista.
 - Ensino Médio Completo
 
