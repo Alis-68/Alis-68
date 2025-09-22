@@ -7,6 +7,8 @@ Olá, Eu Sou Alisson.
 - "Três chaves para o sucesso: ler, ler, ler."
 - Habilidades: Foco, Concentração, Detalhista, Desenhista.
 - Ensino Médio Completo
+-Homosexual
+
 
 <h2 align="left">Olá, Eu Sou Alisson, Seja Bem-Vindo !</h2>
 
